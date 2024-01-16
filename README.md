@@ -1,4 +1,4 @@
-# Exercises for INLINE paper
+# Exercises for Inline paper
 
 ## Circuits
 
